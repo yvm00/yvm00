@@ -4,12 +4,12 @@
 <h1 align="center">Hi, I'm Yana 𐙚⋆.˚ </h1>
 <p align="center">~A web developer with a passion for front-end development and design~</p>
 
-## 🩵🗒️ In short   
+## 🩵🗒️˚˖𓍢ִ໋  In short   
 - Currently learning **TypeScript** and **Next.js**.
 - I love yoga, drawing and reading.
 - You can connect with me on <a href="https://t.me/sso_ur">Telegram</a>
 
-## 🎧🔮 Tools and technologies
+## 🎧🔮 ✮⋆˙Tools and technologies
 Languages
 
 ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=white)
