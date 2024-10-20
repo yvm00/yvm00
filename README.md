@@ -6,7 +6,7 @@
 
 ## 🤍˚˖𓍢ִ໋  In short   
 - Currently learning **TypeScript** and **Next.js**.
-- I love yoga, drawing and reading.
+- I love drawing.
 - You can connect with me on <a href="https://t.me/sso_ur">Telegram</a>
 
 ## 🎧 ✮⋆˙Tools and technologies
