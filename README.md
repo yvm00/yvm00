@@ -4,8 +4,6 @@
 <h1 align="center">Hi, I'm Yana 𐙚⋆.˚ </h1>
 <p align="center">~A web developer with a passion for front-end development and design~</p>
 
-## 🤍˚˖𓍢ִ໋  In short   
-- Currently learning **TypeScript** and **Next.js**.
 
 ## 🎧 ✮⋆˙Tools and technologies
 Languages
