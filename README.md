@@ -11,22 +11,23 @@ Languages
 ![HTML5](https://img.shields.io/badge/html5-000.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%23563D7C.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23DACCE3.svg?style=for-the-badge&logo=javascript&logoColor=333)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white)
   
 Frameworks, Platforms and Libraries
 
-![Postgresql](https://img.shields.io/badge/postgresql-%23DACCE3.svg?style=for-the-badge&logo=postgresql&logoColor=333)
-![MySQL](https://img.shields.io/badge/mysql-3670A0.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![React](https://img.shields.io/badge/react-%23CCD2E3.svg?style=for-the-badge&logo=react&logoColor=333)
-![Django](https://img.shields.io/badge/django-%23DACCE3.svg?style=for-the-badge&logo=django&logoColor=333)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/react-%23563D7C.svg?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23DACCE3.svg?style=for-the-badge&logo=redux&logoColor=333)
+![Mui](https://img.shields.io/badge/mui-%23CCD2E3.svg?style=for-the-badge&logo=mui&logoColor=333)
+![Vue](https://img.shields.io/badge/vue-hotpink.svg?style=for-the-badge&logo=vue&logoColor=white)
+![Vuetify](https://img.shields.io/badge/vuetify-%23DACCE3.svg?style=for-the-badge&logo=vuetify&logoColor=333)
+![Quasar](https://img.shields.io/badge/quasar-3670A0.svg?style=for-the-badge&logo=quasar&logoColor=white)
+![Pinia](https://img.shields.io/badge/pinia-%23CCD2E3.svg?style=for-the-badge&logo=pinia&logoColor=333)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 IDEs/Editors
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23563D7C.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-3670A0.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/intellijidea-%23CCD2E3.svg?style=for-the-badge&logo=intellijidea&logoColor=333)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-3670A0.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 Design
 
