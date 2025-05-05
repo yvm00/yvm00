@@ -2,7 +2,7 @@
   <img style="width: 25%" src="/cat.jpg">
 </p>  
 <h1 align="center">Hi, I'm Yana 𐙚⋆.˚ </h1>
-<p align="center">~A web developer with a passion for front-end development and design~</p>
+<p align="center">~A front-end developer with a passion for design~</p>
 
 
 ## 🎧 ✮⋆˙Tools and technologies
